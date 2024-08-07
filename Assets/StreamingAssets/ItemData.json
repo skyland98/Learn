@@ -1,0 +1,10 @@
+[
+{"id":1,"name":"铁弓","icon":"Icon+icon_wuqi_tiepigong","type":"wuqi","tips":"一把铁制的弓"},
+{"id":2,"name":"铁刀","icon":"Icon+icon_wuqi_dao","type":"wuqi","tips":"一把铁制的刀"},
+{"id":3,"name":"羽毛箭","icon":"Icon+icon_danyao_tiejian_yumao","type":"danyao","tips":"羽毛制作的箭"},
+{"id":4,"name":"生铁","icon":"Icon+icon_cailiao_shengtie","type":"cailiao","tips":"合成道具所需的材料"},
+{"id":5,"name":"木头","icon":"Icon+icon_cailiao_mutou","type":"cailiao","tips":"合成道具所需的材料"},
+{"id":6,"name":"胶带","icon":"Icon+icon_cailiao_jiaodai","type":"cailiao","tips":"合成道具所需的材料"},
+{"id":7,"name":"麻绳","icon":"Icon+icon_cailiao_masheng","type":"cailiao","tips":"合成道具所需的材料"},
+{"id":8,"name":"羽毛","icon":"Icon+icon_cailiao_yumao","type":"cailiao","tips":"合成道具所需的材料"}
+]
